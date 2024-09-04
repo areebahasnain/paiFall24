@@ -1,0 +1,5 @@
+Name: Areeba
+CNIC Number: 1234567
+Age: 21
+Salary: 0
+Contact Number: 12345678
